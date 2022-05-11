@@ -6,6 +6,8 @@
 - 🏆 Languages and Tools:
 Javascript • C++ • C • java • Spring • php •python •HTML •CSS
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=souadfdd&count_private=true&theme=tokyonight&showicons=true)]()
            
 <!---
 souadfdd/souadfdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
